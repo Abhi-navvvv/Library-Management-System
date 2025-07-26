@@ -4,20 +4,20 @@ A Java-based desktop application that automates and manages the day-to-day opera
 
 ### 🚀 Features
 
-🔐 Login/Registration system for students and administrators
-📖 Book Management: Add, delete, search, and view books
-📅 Issue/Return Tracking with due dates
-💸 Automatic Fine Calculation for overdue returns
-⚠️ Input Validation & Exception Handling for smooth operation
-🔒 Basic Database Encryption for secure data storage
-🧠 Modular OOP Design for maintainability and scalability
+🔐 Login/Registration system for students and administrators<br>
+📖 Book Management: Add, delete, search, and view books<br>
+📅 Issue/Return Tracking with due dates<br>
+💸 Automatic Fine Calculation for overdue returns<br>
+⚠️ Input Validation & Exception Handling for smooth operation<br>
+🔒 Basic Database Encryption for secure data storage<br>
+🧠 Modular OOP Design for maintainability and scalability<br>
 
 ### 🛠️ Tech Stack
 
-Java – Core logic and GUI
-Java Swing – GUI framework
-MySQL / SQLite – Database
-OOP Principles – Encapsulation, inheritance, modular classes
+Java – Core logic and GUI<br>
+Java Swing – GUI framework<br>
+MySQL – Database<br>
+OOP Principles – Encapsulation, inheritance, modular classes<br>
 
 ### 🎯 Objective
 
@@ -25,22 +25,22 @@ To provide an efficient, error-free digital alternative to traditional manual li
 
 ### 📌 Applications
 
-Schools, colleges, universities
-Public libraries and book rental services
-Small private book collections
-Can be extended for e-book libraries
+Schools, colleges, universities<br>
+Public libraries and book rental services<br>
+Small private book collections<br>
+Can be extended for e-book libraries<br>
 
 ### 🔮 Future Enhancements
 
-📊 Admin dashboard with stats and analytics
-📧 Email alerts for overdue books
-🌐 Online access with JavaFX + Web integration
-📱 Mobile version (Java/Kotlin for Android)
+📊 Admin dashboard with stats and analytics<br>
+📧 Email alerts for overdue books<br>
+🌐 Online access with JavaFX + Web integration<br>
+📱 Mobile version (Java/Kotlin for Android)<br>
 
 ### 📚 References
 
-Java Documentation
-MySQL Docs
-Swing Tutorials – GeeksforGeeks
-Stack Overflow for debugging & best practices
+Java Documentation<br>
+MySQL Docs<br>
+Swing Tutorials – GeeksforGeeks<br>
+Stack Overflow for debugging & best practices<br>
 
