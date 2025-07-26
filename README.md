@@ -1,4 +1,4 @@
-### 📚 Library Management System
+## 📚 Library Management System
 
 A Java-based desktop application that automates and manages the day-to-day operations of a library — including book lending, user management, overdue tracking, and fine calculation.
 
